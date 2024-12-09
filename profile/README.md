@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/UTE-SafeYou">
-    <img src="./assets/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="../assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Safe You</h3>
