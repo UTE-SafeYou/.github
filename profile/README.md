@@ -14,13 +14,21 @@
     <a href="https://ute-safeyou.github.io/safeyou-docs/"><strong>Tài liệu phát triển »</strong></a>
     <br />
     <br />
-    <a href="https://olp-asm.huuloc.id.vn/app/safeyou-internals/admin-authentication-67543a23fd51167a0308d7b7?branch=master">Online demo</a>
-    ·
     <a href="https://github.com/UTE-SafeYou/UTE-SafeYou/issues/new?assignees=&labels=&projects=&template=%F0%9F%90%9E-b%C3%A1o-c%C3%A1o-l%E1%BB%97i-.md&title=">Báo cáo lỗi</a>
     ·
     <a href="https://github.com/UTE-SafeYou/UTE-SafeYou/issues/new?assignees=&labels=&projects=&template=%F0%9F%92%A1-y%C3%AAu-c%E1%BA%A7u-t%C3%ADnh-n%C4%83ng.md&title=">Yêu cầu tính năng</a>
   </p>
 </div>
+
+## Bắt đầu 🚀
+
+Safe You Team đã deploy ứng dụng Safe You trên môi trường thực tế. Bạn có thể truy cập ứng dụng [tại đây](https://olp-asm.huuloc.id.vn/app/safeyou-client/auth-67565341fd51167a0308db30?branch=master)
+
+1. Phát triển phía Client: <a href="https://github.com/UTE-SafeYou/safeyou-client"><strong>Safe You Client</strong></a>
+
+2. Phát triển phía Server: <a href="https://github.com/UTE-SafeYou/safeyou-baas"><strong>Safe You Baas</strong></a>
+
+3. Phát triển phía Nội bộ: <a href="https://github.com/UTE-SafeYou/safeyou-internals"><strong>Safe You Internals</strong></a>
 
 ## Về Safe You Project 👋
 
